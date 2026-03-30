@@ -1,7 +1,15 @@
 body{
-  background-color: rgb(157, 236, 170);
+  margin-top: 50px;
+  text-align: center;
+  background-image: url(https://cdn1.epicgames.com/ue/product/Screenshot/horse-1920x1080-7df7e064d2bd0fe03bbbc10088b0c97c.png?resize=1&w=1920);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 li{
   font-style: italic;
+  font-family: 'Courier New', Courier, monospace;
+  width: 25%;
+  margin: auto;
+  
 }
